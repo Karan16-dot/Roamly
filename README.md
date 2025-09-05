@@ -1,4 +1,4 @@
-# Jatt Advisors 
+# ExploreEase
 
 This project was created using react js, google maps api and rapid hub api
 
